@@ -4,4 +4,4 @@
 preventive measures to alert the driver and prevent accidents. This includes activating a pump mechanism to release a wake-up agent or scent in the car cabin to stimulate the driver's senses. Additionally, a vibration motor connected via relay is activated to provide physical feedback, such as vibrating the driver's seat, further alerting them to the need for immediate attention. Overall, the proposed system offers a proactive approach to addressing the serious issue of driver drowsiness, particularly during long journeys or monotonous driving conditions. By leveraging Raspberry Pi's capabilities for real-time image processing
 and control of peripheral devices, the system aims to enhance road safety and prevent accidents caused by driver fatigue.
 
-![image](https://github.com/AnudeepInala/FinalYearProject/assets/78262590/7dc588d6-6eac-437e-9760-1a24391d8a45)
+                                                 ![image](https://github.com/AnudeepInala/FinalYearProject/assets/78262590/7dc588d6-6eac-437e-9760-1a24391d8a45)
